@@ -1,0 +1,8 @@
+value= 3.00
+value= 5.00
+value= 7.00
+value= 9.00
+value= 1.00
+value= 9.00
+value= 16.00
+value= 25.00
