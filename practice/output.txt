@@ -1,0 +1,9 @@
+value= 285.00
+value= 23.00
+value= 15.00
+value= 285.00
+value= 23.00
+value= 15.00
+value= 285.00
+value= 23.00
+value= 15.00
